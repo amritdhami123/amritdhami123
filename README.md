@@ -18,15 +18,22 @@ I focus on developing practical, real-world projects that strengthen my understa
 - Building end-to-end Machine Learning projects  
 - Exploring NLP and real-world AI applications  
 ---
-### 🛠️ Development Tools
+## 🛠️ Development Tools
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+### Platform
+
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
+
+
+
 ---
-### 📚 Core Skills
+## 📚 Core Skills
 
 #### **Languages & Databases:**
 
