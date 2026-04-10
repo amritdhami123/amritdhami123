@@ -1,4 +1,4 @@
-## Hi there, I'm Amrit Dhami
+# Hi there, I'm Amrit Dhami
 
 An aspiring Data Scientist with hands-on experience in Machine Learning, Deep Learning, and NLP. I build end-to-end projects solving real-world problems, from preprocessing to deployment.
 
@@ -6,6 +6,11 @@ An aspiring Data Scientist with hands-on experience in Machine Learning, Deep Le
 - AI applications  
 - Resume & job matching  
 - Data-driven solutions
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/amritdhami123)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amritdhami123)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amrit99dhami@gmail.com)
+
+  
 ---
 ## 👨‍💻 About Me
 
@@ -20,15 +25,15 @@ I focus on developing practical, real-world projects that strengthen my understa
 ---
 ## 🛠️ Development Tools
 
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/amritdhami123)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### Other Tools & Frameworks
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/amritdhami123)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://share.streamlit.io/u/amritdhami123)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 ### Platforms
